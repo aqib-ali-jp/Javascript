@@ -153,3 +153,28 @@
 
 // let userName;
 // let userImage;
+
+
+const sum1 = 2
+const sum2 = 5
+
+const str = '' // falsey value
+const zro = 0 // false value
+const flsey = false // falsey value
+const nul = null // false value
+const undef = undefined // falsey value
+
+// console.log(sum1 || zro ? 'i am truthy' : 'falsey');
+
+// logical !
+
+console.log(!str || !sum1 ? 'truthy' : 'fasley')
+
+if (!str || !sum1) {
+    console.log(true)
+}
+else {
+    console.log(false)
+}
+// console.log(4 > 5 || 10 === 10) // 1:false 2:true
+

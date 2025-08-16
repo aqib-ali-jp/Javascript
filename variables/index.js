@@ -39,3 +39,5 @@ var man;
 
 
 const l = '';
+
+const str = "a";
