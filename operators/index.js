@@ -8,6 +8,15 @@
 
 // const c = a + b;
 // console.log("The value of C is:", c)
+
+
+
+// const num1 = 5;
+// const num2 = 6;
+
+// const sum = num1 + num2;
+// console.log(sum);
+
 // // for substraction
 
 // const num1 = 5;
@@ -46,6 +55,7 @@
 
 
 
+
 // let x = 10
 // x= x+5;  // 10 + 5 = 15
 // x+=5    // x = x+ 5
@@ -53,7 +63,7 @@
 
 // concatination
 // const k = 6
-// const z = '11'
+// const z = '6'
 // console.log(k + z) // -5
 
 
@@ -89,8 +99,8 @@
 // console.log(n1 >= n2)
 
 
-// let b1 = '' //empty string , 0 , false this means falsy values
-// console.log( b1 ? 'hello' : 'helllo')
+// let b1 = 'hi' //empty string , 0 , false this means falsy values
+// console.log( b1 ? 'hello' : 'by')
 
 
 // let age = 18
@@ -143,7 +153,29 @@
 // let l2ol2 = 'error'
 // console.log(2lol)
 
+// ge;
 
+
+// const sum1 = 2
+// const sum2 = 5
+
+// const str = '' // falsey value
+// const zro = 0 // false value
+// const flsey = false // falsey value
+// const nul = null // false value
+// const undef = undefined // falsey value
+
+// // console.log(sum1 || zro ? 'i am truthy' : 'falsey');
+
+// // logical !
+
+// console.log(!str || !sum1 ? 'truthy' : 'fasley')
+
+// if (!str || !sum1) {
+//     console.log(true)
+// }
+// else {
+//     console.log(false)
 // let function = 'jjsj';
 // console.log(function)
 
@@ -152,29 +184,7 @@
 // console.log(yousuF)
 
 // let userName;
-// let userImage;
-
-
-const sum1 = 2
-const sum2 = 5
-
-const str = '' // falsey value
-const zro = 0 // false value
-const flsey = false // falsey value
-const nul = null // false value
-const undef = undefined // falsey value
-
-// console.log(sum1 || zro ? 'i am truthy' : 'falsey');
-
-// logical !
-
-console.log(!str || !sum1 ? 'truthy' : 'fasley')
-
-if (!str || !sum1) {
-    console.log(true)
-}
-else {
-    console.log(false)
-}
+// let userIma
+// }
 // console.log(4 > 5 || 10 === 10) // 1:false 2:true
 

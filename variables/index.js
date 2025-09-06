@@ -18,11 +18,13 @@
 
 // console.log(days)
 
-// let
-// let mo = 'sunday'
-// let mo;
-// mo = 'mondat'
-// console.log(mo)
+
+// let day = 'sunday'
+
+// let day;
+// day = 'monday'
+// day = 'tuesday'
+// console.log(day)
 
 // var pool;
 
@@ -30,14 +32,31 @@
 
 
 //     let b = 'hello osama'
-const test = 'some';
-{
-    const test = 'in block'
-}
-var man;
-var man;
+// const test = 'some';
+// {
+//     const test = 'in block'
+// }
+// var man;
+// var man;
 
 
-const l = '';
+// const l = '';
 
-const str = "a";
+// const str = "a";
+
+// const day ='monday';
+// console.log(day)
+
+
+// {
+//     const day = 'tuseday'
+//     console.log(day)
+// }
+
+
+// let name;
+// name ='onais'
+
+// name='aqib'
+
+// console.log(name)
