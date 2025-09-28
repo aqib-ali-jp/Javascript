@@ -151,20 +151,28 @@
 
 // name rules
 // let l2ol2 = 'error'
-// console.log(2lol)
+// console.log(l2ol2)
 
 // ge;
 
 
 // const sum1 = 2
 // const sum2 = 5
-
-// const str = '' // falsey value
-// const zro = 0 // false value
-// const flsey = false // falsey value
+let undf;
+console.log(undf)
+const str = 'hfg' // falsey value
+console.log(str)
+const zro = 0 // false value
+console.log(zro)
+const flsey = false // falsey value
 // const nul = null // false value
 // const undef = undefined // falsey value
-
+if(undf){
+    console.log(true)
+}
+else{
+    console.log(false)
+}
 // // console.log(sum1 || zro ? 'i am truthy' : 'falsey');
 
 // // logical !
@@ -188,3 +196,24 @@
 // }
 // console.log(4 > 5 || 10 === 10) // 1:false 2:true
 
+
+
+
+// if(name || address){
+//     console.log('Correct Information')
+// }
+// else {
+//     console.log('False Information')
+// }
+
+let userName = ''
+let address = 'jhg'
+let age = 18
+let licence = true
+
+if((age || licence) || (userName && address)){
+    console.log('Eligible for license')
+}
+else {
+    console.log('Not Eligible')
+}
